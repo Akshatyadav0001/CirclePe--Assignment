@@ -1,21 +1,11 @@
-I Have created a zip file for this project by the name CIRCLE PE Assignment.zip:-
+#CIRCLE-PE ASSIGNMENT
+# I Have created a zip file for this project by the name CIRCLE PE Assignment.zip:-
 1) Download the zip File and you can seee all the Contents of my project.
 2) After downloading this zip file copy all contents to new folder.
 3) Open that folder in VSCode.
 4) Go to the new terminal and start npm build.
-5) cd my-app
-npm start
-![Image](https://github.com/user-attachments/assets/d26b5bbe-1810-463a-b4d9-06486718fa55)
-
-
-
-
-
-
-
-
-
-
+# cd my-app
+# npm start
 
 
 
