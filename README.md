@@ -6,6 +6,16 @@ I Have created a zip file for this project by the name CIRCLE PE Assignment.zip:
 5) cd my-app
 npm start
 
+![Image](https://github.com/user-attachments/assets/6bf10a9f-9682-46a1-8479-e0ef74193cdc)
+![Image](https://github.com/user-attachments/assets/e17b7753-3c87-4110-b537-548c7b17ed2f)
+![Image](https://github.com/user-attachments/assets/c6fe8907-4beb-4c3e-84e9-314d452abd2d)
+![Image](https://github.com/user-attachments/assets/f69178f7-b327-400c-865b-170be1bd2e9d)
+![Image](https://github.com/user-attachments/assets/42cc96ef-a327-4cae-bc09-7ff0f01bd2cd)
+![Image](https://github.com/user-attachments/assets/c2cfb90f-5ac1-47b5-b9ce-82418a1e931f)
+![Image](https://github.com/user-attachments/assets/52c4801d-6d2d-49d2-a313-bb536242ecdd)
+![Image](https://github.com/user-attachments/assets/19c46431-cf08-42a5-b9f4-c24f37aedb94)
+![Image](https://github.com/user-attachments/assets/a3df31aa-3415-4045-9d94-866fa087da34)
+
 
 
 
